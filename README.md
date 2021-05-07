@@ -1,7 +1,7 @@
 # WanderingBot
 未来地球流浪者bot - 基于WeChaty, PaddleHub与彩云小梦的科幻机器人
 
-![72133691dfbc45ddafc30acc76d5ad931c281b2b637c40bdba4dd5efa4e479d1](image\72133691dfbc45ddafc30acc76d5ad931c281b2b637c40bdba4dd5efa4e479d1.jpg)
+<img src="image\4.jpg" alt="bf"  />
 
 
 
@@ -12,21 +12,13 @@
 
 
 
+<img src="image\5.png" alt="bf"  />
 
+<img src="image\3.png" alt="bf"  />
 
-<img src="image\bf58434f513f4e3a8ae36c121bba1423a1f005193a994cb388d113cac27f4df5.png" alt="bf58434f513f4e3a8ae36c121bba1423a1f005193a994cb388d113cac27f4df5"  />
+<img src="image\2.jpg" alt="bf"  />
 
-
-
-![8961050f9b7a46a396d56192f7592c55d1607c3a1ebf4510abf50592842a8984](image\8961050f9b7a46a396d56192f7592c55d1607c3a1ebf4510abf50592842a8984.png)
-
-
-
-
-
-![0893f4ced8874e2180d16d3802fff0149ce1b3ab8896480da5f9520d6e24d47b](image\0893f4ced8874e2180d16d3802fff0149ce1b3ab8896480da5f9520d6e24d47b.jpg)
-
-![57e73493b3074255b4c25112d7be8fec8c35a6cd948c4a7c8e4a45f899f89d80](image\57e73493b3074255b4c25112d7be8fec8c35a6cd948c4a7c8e4a45f899f89d80.jpg)
+<img src="image\1.jpg" alt="bf"  />
 
 
 
@@ -100,4 +92,4 @@ http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi
 
 
 
-![realLogo](realLogo.png)
+<img src="realLogo.png" alt="bf"  />
