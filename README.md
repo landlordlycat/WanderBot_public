@@ -1,10 +1,11 @@
 # WanderingBot
 未来地球流浪者bot - 基于WeChaty, PaddleHub与彩云小梦的科幻机器人
 
+![72133691dfbc45ddafc30acc76d5ad931c281b2b637c40bdba4dd5efa4e479d1](image\72133691dfbc45ddafc30acc76d5ad931c281b2b637c40bdba4dd5efa4e479d1.jpg)
+
 
 
 一个身处未来，正在努力穿越地球的旅行者。 可以跟人类发送当前定位、照片和游记。
-用户的留言和建议偶尔会出现在游记里，用户可以建议他走向哪个方向/下一个目的地。让整个bot变成一个不断迭代更新的旅行游戏……  
 希望做成一个互联网艺术项目，成为参与者聊天列表里一位特殊的旅行者，给参与者带去一些期待和惊喜。
 
 详细与流程请见AI Studio：https://aistudio.baidu.com/aistudio/projectdetail/1896705
@@ -88,6 +89,8 @@ https://zhuanlan.zhihu.com/p/79627772
 百度地图-地点检索
 http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi
 
+
+
 ### 文件夹
 
 地点获取图片：pictures
@@ -96,3 +99,5 @@ http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi
 百度api相关脚本：baiduScript
 
 
+
+![realLogo](realLogo.png)
