@@ -1,5 +1,7 @@
 # WanderingBot
 未来地球流浪者bot - 基于WeChaty, PaddleHub与彩云小梦的科幻机器人
+本版本已归档，代码请查看：https://github.com/sunyuqian1997/Wander001-V2.1
+项目官网：www.wander001.com 目前微信好友已加满，若想体验请加入discord英文版：https://discord.gg/3njPKQJ4V4
 
 <img src="image\4.jpg" alt="bf"  />
 
